@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment Example</string>
+    
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notification">Notification</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_notifications">title_notifications</string>
+</resources>
